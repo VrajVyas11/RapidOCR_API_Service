@@ -21,20 +21,6 @@ The **RapidOCR API Service** is a high-performance, serverless Optical Character
 - **Resource Efficiency**: Memory monitoring and garbage collection (`gc`) minimize resource usage, ideal for serverless environments.
 - **Scalable**: Render.com’s auto-scaling ensures the API handles varying loads efficiently.
 
-## Tags
-- **OCR**
-- **Manga**
-- **FastAPI**
-- **Render.com**
-- **Text Recognition**
-- **Image Processing**
-- **Python**
-- **AVIF**
-- **HEIF**
-- **WebP**
-- **Serverless**
-- **Machine Learning**
-
 ## Project Structure
 ```
 EasyOCRService/
